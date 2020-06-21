@@ -1,0 +1,23 @@
+{
+  "name": "podcasts-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredparkinson/podcasts-lib.git"
+  },
+  "author": "Jared Parkinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaredparkinson/podcasts-lib/issues"
+  },
+  "homepage": "https://github.com/jaredparkinson/podcasts-lib#readme",
+  "dependencies": {
+    "tslib": "^2.0.0",
+    "typescript": "^3.9.5"
+  }
+}
