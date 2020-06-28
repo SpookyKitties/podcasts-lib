@@ -11,6 +11,10 @@ export class Podcast {
   public type: string;
   public keywords: string;
   public image: string;
+  public url: string;
+  public refreshing?: boolean;
+  public username?: string;
+  public password?: string;
   public category: string[];
 }
 
