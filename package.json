@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/jaredparkinson/podcasts-lib#readme",
   "dependencies": {
+    "@types/jsdom": "^16.2.3",
     "axios": "^0.19.2",
+    "jsdom": "^16.2.2",
     "rxjs": "^6.5.5",
     "tslib": "^2.0.0",
     "typescript": "^3.9.5"
